@@ -8,3 +8,4 @@ Tải thư mục GAME_SNAKE về máy bằng cách vào mục code màu xanh, r�
 Sau khi đã tải về máy, chon thư mục GAME_SNAKE-master vừa tải về rồi giải nén thư mục.
 
 Tiếp theo, hãy vào thư mục GAME_SNAKe-master vửa giải nén rồi chọn thư mục GAME_SNAKE. Sau đó chọn thư mục Game_snake.exe để chơi Game.
+
