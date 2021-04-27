@@ -1,1 +1,2 @@
 # GAME_SNAKE
+HƯỚNG DẪN CÀI ĐẶT GAME TẠI ĐÂY:
