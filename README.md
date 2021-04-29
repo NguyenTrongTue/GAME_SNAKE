@@ -1,7 +1,11 @@
 # GAME_SNAKE
 HƯỚNG DẪN CÀI ĐẶT GAME TẠI ĐÂY:
 
-Đầu tiên hãy cài đặt CODEBLOCK, và cài đặt thêm thư viện SDL2, SDL_image.
+Đầu tiên hãy cài đặt CODEBLOCK tại: https://www.codeblocks.org/downloads/binaries/ 
+
+Cài đặt thêm thư viện SDL2: https://www.libsdl.org/download-2.0.php, SDL_image: https://www.libsdl.org/projects/SDL_image/.
+
+Lưu ý: đuôi thư mục phải có Mingw.
 
 Tải thư mục GAME_SNAKE về máy bằng cách vào mục code màu xanh, rồi chon "Download zip".
 
